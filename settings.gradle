@@ -1,4 +1,0 @@
-rootProject.name = 'java101'
-
-include 'tutorials/hello-world'
-include 'tutorials/set'
