@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java101.iml" filepath="$PROJECT_DIR$/.idea/modules/java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java101_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java101_main.iml" group="java101" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java101_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java101_test.iml" group="java101" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorials/hello-world/tutorials_hello-world.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorials/hello-world/tutorials_hello-world.iml" group="tutorials/hello-world" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorials/hello-world/tutorials_hello-world_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorials/hello-world/tutorials_hello-world_main.iml" group="tutorials/hello-world" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorials/hello-world/tutorials_hello-world_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorials/hello-world/tutorials_hello-world_test.iml" group="tutorials/hello-world" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorials/set/tutorials_set.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorials/set/tutorials_set.iml" group="tutorials/set" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorials/set/tutorials_set_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorials/set/tutorials_set_main.iml" group="tutorials/set" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorials/set/tutorials_set_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorials/set/tutorials_set_test.iml" group="tutorials/set" />
+    </modules>
+  </component>
+</project>
