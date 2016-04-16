@@ -1,8 +1,8 @@
-# Java-101
-A project that helps teach how to program in Java
+# Java 101
+A project that helps teach how to program in Java using TDD.
 
 ## Tutorial #1
-A simple hello world application.
+A simple hello world application
 
 #### Requirements:
 
