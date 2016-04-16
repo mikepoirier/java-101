@@ -4,13 +4,15 @@ A project that helps teach how to program in Java
 ## Tutorial #1
 A simple hello world application.
 
-### Requirements:
+#### Requirements:
 
-1. Given no arguements, HelloWorld should return `"Hello, World!"`
-1. Given a _name_, HelloWorld should return a greeting of `"Hello, <name>!"`
+1. As a helloWorld, I want to greet others with `Hello, World!` if no name is given.
+1. As a helloWorld, I want to greet others with `Hello, <name>!` if they provide their name.
 
 ## Tutorial #2
 An implementation of a Set
+
+#### Requirements:
 
 1. As a set, I want to report if I am empty or not.
 1. As a set, I want to report my size.
